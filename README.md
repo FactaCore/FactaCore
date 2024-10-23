@@ -5,7 +5,7 @@
 <img align="left" src="img/Rias.png" width="210px"/> 
 
 ```csharp
-Rapli@Potato
+Faaza
 ---------------------------------------------------
 Username: Faza Achmad T.
 OS: Windows 11
@@ -36,13 +36,6 @@ Girlfriend: IDH.
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04.4-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/)
 
-### 📱 Devices Support
-![SDM845](https://img.shields.io/badge/Xiaomi%20SDM845-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![SM7150-AB](https://img.shields.io/badge/Xiaomi%20SM7150AB-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![SM6225](https://img.shields.io/badge/Xiaomi%20SM6225-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![SDM660](https://img.shields.io/badge/Xiaomi%20SDM660-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![MI8953](https://img.shields.io/badge/Xiaomi%20MSM8953-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![MSM8937](https://img.shields.io/badge/Xiaomi%20MSM8937-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
 <div align="center"> 
     
@@ -71,7 +64,6 @@ Girlfriend: IDH.
 <p align="center">
   <a href="https://github.com/raplivx"><img alt="Github" title="RapliVX Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:raffikun1203@gmail.com"><img alt="Gmail" title="Rapli Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/KamiSkizofrenia"><img alt="Telegram" title="Rapli Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
  </p>
 </div>
 
