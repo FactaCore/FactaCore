@@ -7,17 +7,14 @@
 ```csharp
 Rapli@Potato
 ---------------------------------------------------
-Username: Rafi Aditya.
-OS: Nyarch Linux
-Shell: zsh 5.9
+Username: Faza Achmad T.
+OS: Windows 11
 Languages: JavaScript, Java, Android, Kotlin, Python
-Terminal: Sway
-CPU: Intel i5-2400 (4) @ 3.092GHz
+CPU: AMD Ryzen 5-6600H (6) @ 3.30GHz
 Memory : 303MiB / 16384MiB
-Telegram: @ErOneSoul.
 Learning : Android, Kotlin, JavaScript, C, C++.
 Hobbies: Watching Anime, Music, and Gaming.
-Girlfriend: Rias Gremory ❤️.
+Girlfriend: IDH.
 
 ```
 ```zsh
@@ -27,12 +24,11 @@ Girlfriend: Rias Gremory ❤️.
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=raplivx&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 
-### Hi, I'm Rapli 👋 
-- 🌱 I’m learning Android~
+### Hi, I'm Facta 👋 
+- 🌱 I’m learning Everything~
 - 🏠 I'm a RPL school student Like IT of indonesia 
 - A staunch capitalist
-- "My hobby is watching anime"
-- "I like My Waifu"
+- "Playing Valorant"
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
