@@ -14,7 +14,6 @@ CPU: AMD Ryzen 5-6600H (6) @ 3.30GHz
 Memory : 303MiB / 16384MiB
 Learning : Android, Kotlin, JavaScript, C, C++.
 Hobbies: Watching Anime, Music, and Gaming.
-Girlfriend: IDH.
 
 ```
 ```zsh
