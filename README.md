@@ -20,7 +20,7 @@ Hobbies: Watching Anime, Music, and Gaming.
 ➜ My Stats LOL
 ```
 
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=raplivx&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=FactaCore&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 
 ### Hi, I'm Facta 👋 
